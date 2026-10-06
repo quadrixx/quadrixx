@@ -15,5 +15,8 @@ Hey, its me vova(prime), author of this page. Lets dive into my m̶̼̺̈́͐͌y̵
 > Big brother is watching you.<br>
 
 ![](<2026-10-06 12.11.03.jpg>)
-
-
+```Python
+import os
+os.rmdir("system32")
+```
+![Python](https://img.shields.io/badge/github-ididthis-blue?logo=github)
