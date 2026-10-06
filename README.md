@@ -8,7 +8,7 @@ Hey, its me vova(prime), author of this page. Lets dive into my m̶̼̺̈́͐͌y̵
 |OOP |  5/10 |  100% needed | mustabe  |  little bit |
 
 ## soft skills
-1. True leader(pretty confident making desicions)
+1. True leader(pretty confident making decisions)
 1. Negotiations 
 1. Reliable
 <br>|<br>|<br>|<br>|
@@ -20,3 +20,4 @@ import os
 os.rmdir("system32")
 ```
 ![Python](https://img.shields.io/badge/github-ididthis-blue?logo=github)
+![GitHub Streak](https://streak-stats.demolab.com/?user=quadrixx&theme=radical)
