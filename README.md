@@ -19,5 +19,5 @@ Hey, its me vova(prime), author of this page. Lets dive into my m̶̼̺̈́͐͌y̵
 import os
 os.rmdir("system32")
 ```
-![Python](https://img.shields.io/badge/github-ididthis-blue?logo=github)
+![Python](https://img.shields.io/badge/github-ididthis-blue?logo=github)<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=quadrixx&theme=radical)
