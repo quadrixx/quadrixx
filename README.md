@@ -1,16 +1,19 @@
-## Hi there 👋
+###  WOWA 
+Hey, its me vova(prime), author of this page. Lets dive into my m̶̼̺̈́͐͌ÿ̵̧̢̯́ ̴͖̾í̶̹̹͌n̵̺̍͂n̶̘̩̏e̷͔͋͗͐r̵͎̋͛̋ ̸̡̥͎̓͘͠ẅ̸̺́̈́o̶͈̺͆̌ȑ̷̙̈́l̶͕̒̿̚d̷̡̖͙̈́́.
+|   |  Skills |  Attitude |  ITMO |  pray? |
+|---|---|---|---|---|
+|   Python | 8/10  | Casual  |  kind of |  Nah |
+|  C# | 6/10  |  My beloved |  No |  Nah |
+|  c++|2/10| i̸n̸t̴e̸r̶f̸e̸r̵e̸n̸c̴e̷̴|Yes|kill me
+|OOP |  5/10 |  100% needed | mustabe  |  little bit |
 
-<!--
-**quadrixx/quadrixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## soft skills
+1. True leader(pretty confident making desicions)
+1. Negotiations 
+1. Reliable
+<br>|<br>|<br>|<br>|
+> Big brother is watching you.<br>
 
-Here are some ideas to get you started:
+![](2026-10-06 12.11.03.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
